@@ -1,2 +1,2 @@
 # Scop
-OpenGl Obj renderer written in C++
+OpenGl .obj renderer written in C++
